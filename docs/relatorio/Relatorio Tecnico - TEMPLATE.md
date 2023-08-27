@@ -82,8 +82,11 @@ OBJETIVO GERAL
 
 OBJETIVO ESPECÍFICO
 -Com base em suas preferências e capacidades, o software poderá auxiliar o usuário a escolher qual a melhor rota e quais condições daquela e outras rotas disponíveis;
+
 -Identificar e detalhar as rotas e quais suas condições; 
+
 -Fornecer uma ferramenta, que permita ao usuário, planejar, descobrir e experimentar rotas;
+
 -Incentivar a comunidade à prática do ciclismo a partir da fácil usabilidade do software.
 
 
