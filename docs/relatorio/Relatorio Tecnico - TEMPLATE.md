@@ -1,11 +1,11 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Bike Route ......
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Sistemas de Informação ......
 
 ## Participantes
 
@@ -14,8 +14,12 @@
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Victor Lucas de Ângela Martins
+> - Bruno
+> - Flávio
+> - Gustavo
+> - Higor
+> - Jefferson
 
 # Estrutura do Documento
 
