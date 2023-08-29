@@ -16,7 +16,7 @@
 > Os membros do grupo são: 
 > - Victor Lucas de Ângela Martins
 > - Bruno
-> - Flávio
+> - Flávio Vinícius Silva Moreira
 > - Gustavo
 > - Higor
 > - Jefferson
