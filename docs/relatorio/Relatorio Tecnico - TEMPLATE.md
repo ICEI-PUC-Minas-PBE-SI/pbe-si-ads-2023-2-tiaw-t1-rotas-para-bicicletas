@@ -60,7 +60,10 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O nosso software busca resolver o problema de ciclistas em relação a rotas para pedalar, atendendendo todos os níveis de ciclistas, desde o iniciante até o avançado.
+Os ciclista poderão utilizar o site para encontrar rotas para pedalar em sua região, interagir com a rota de outros ciclistas e também postar suas rotas para toda a comunidade ver.
+As vezes uma pessoa inicia no ciclismo e não sabe uma rota divertida e segura para ir com sua bike, e por isso corre o risco dele largar o esporte por esse simples motivo, o nosso site busca resolver esse problema, disponibilizando rotas de outros ciclistas da região, através do compartilhamento de trajetos.
+......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
