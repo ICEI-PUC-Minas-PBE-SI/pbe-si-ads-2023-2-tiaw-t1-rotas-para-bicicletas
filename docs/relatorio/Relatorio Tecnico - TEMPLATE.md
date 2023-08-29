@@ -115,11 +115,11 @@ OBJETIVO ESPECÍFICO
 
 São vários os fatores que justificam a criação de uma aplicação como a nossa, voltada para usuários praticantes (e possíveis aspirantes) ao ciclismo: 
 
--Sustentabilidade: Prática que incentiva sustentabilidade, uma vez que bicicletas são meios de transportes não poluentes;
--Desafogo de trânsito: o uso de bicicletas é comprovadamente um meio de transporte rápido, prático e que desafoga o trânsito através da redução de espaço das vias;
--Lazer: usado para ciclistas que querem se divertir;
--Segurança e conforto: através das informações sobre rotas, o usuário tem a informação sobre o lugar que ele vai, a fim de se precaver de imprevistos viários, lugares perigosos, ou até mesmo problemas relacionados ao clima;
--HYPE: o hype, agitação, gerado em cima de uma aplicação bem sucedida, acaba sendo difundida e consequente difundida;
+-Sustentabilidade: Prática que incentiva sustentabilidade, uma vez que bicicletas são meios de transportes não poluentes; <br>
+-Desafogo de trânsito: o uso de bicicletas é comprovadamente um meio de transporte rápido, prático e que desafoga o trânsito através da redução de espaço das vias; <br>
+-Lazer: usado para ciclistas que querem se divertir; <br>
+-Segurança e conforto: através das informações sobre rotas, o usuário tem a informação sobre o lugar que ele vai, a fim de se precaver de imprevistos viários, lugares perigosos, ou até mesmo problemas relacionados ao clima; <br>
+-HYPE: o hype, agitação, gerado em cima de uma aplicação bem sucedida, acaba sendo difundida e consequente difundida; <br>
 
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
