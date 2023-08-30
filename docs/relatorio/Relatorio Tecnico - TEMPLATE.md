@@ -133,22 +133,28 @@ São vários os fatores que justificam a criação de uma aplicação como a nos
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Público-alvo: Entusiastas de Ciclismo Urbano e Aventura
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Descrição:
+O público-alvo da Bike Route é composto por pessoas que são apaixonadas por ciclismo e estão interessadas em explorar rotas urbanas, trilhas de aventura em suas bicicletas e compartilhar com os demais entusiastas. São pessoas que valorizam a liberdade, a saúde e o contato com a natureza, ao mesmo tempo em que adotam um estilo de vida ativo e ecologicamente consciente. Esse público busca experiências únicas, desafiadoras e emocionantes, enquanto desfruta dos benefícios físicos e mentais que o ciclismo proporciona.
+
+Características do Público-alvo:
+
+Idade: Principalmente entre 15 e 55 anos, embora possa variar.
+
+Estilo de Vida Ativo: Valorizam atividades ao ar livre e buscam maneiras de se manterem ativos e saudáveis.
+
+Variedade de Níveis de Habilidade: Desde ciclistas iniciantes que estão explorando a prática até ciclistas experientes que buscam desafios mais intensos.
+
+Aventura e Exploração: Procuram por novas rotas, trilhas e destinos para expandir seus horizontes e vivenciar aventuras.
+
+Comunidade e Socialização: Participam de grupos de ciclistas, eventos e encontros para compartilhar experiências e conhecimentos.
+
+Equipamento de Qualidade: Estão dispostos a investir em bicicletas de qualidade, acessórios e equipamentos que melhorem sua experiência de ciclismo.
+
+Conectados Digitalmente: Usam aplicativos, redes sociais e plataformas online para planejar rotas, acompanhar o progresso e interagir com outros ciclistas.
+
+Saúde Mental e Bem-estar: Reconhecem os benefícios do ciclismo para o alívio do estresse e a melhoria do estado de espírito.
  
 # Especificações do Projeto
 
