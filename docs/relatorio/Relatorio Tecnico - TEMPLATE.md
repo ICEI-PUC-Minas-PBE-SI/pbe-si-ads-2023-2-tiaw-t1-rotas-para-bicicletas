@@ -158,7 +158,7 @@ Serão utilizadas algumas abas html para fazer uma parte de navegação, uma API
 ## Personas e Mapas de Empatia
 
 ...... Persona Alex (Victor Lucas) -Alex, Contador, adulto de meia idade (41-55)
-Alex possui 54 anos, tem uma família de 4 pessoas e
+Alex possui 54 anos, trabalha como contador em uma empresa de pequeno porte, tem uma família de 4 pessoas e
 gosta muito de pedalar, seu hobbie preferido é o
 ciclismo, ele sai para praticar esse hobbie pelo
 menos a cada 2 semanas. Alex gosta muito de
