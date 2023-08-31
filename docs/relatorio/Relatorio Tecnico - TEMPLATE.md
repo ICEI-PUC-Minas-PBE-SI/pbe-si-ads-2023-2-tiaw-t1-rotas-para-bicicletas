@@ -9,17 +9,17 @@
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... Os membros do grupo são:
+
+Victor Lucas de Ângela Martins
+Bruno
+Flávio Vinícius Silva Moreira
+Gustavo
+Higor
+Jefferson ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
-> Os membros do grupo são: 
-> - Victor Lucas de Ângela Martins
-> - Bruno
-> - Flávio Vinícius Silva Moreira
-> - Gustavo
-> - Higor
-> - Jefferson
 
 # Estrutura do Documento
 
