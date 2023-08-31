@@ -163,7 +163,12 @@ gosta muito de pedalar, seu hobbie preferido é o
 ciclismo, ele sai para praticar esse hobbie pelo
 menos a cada 2 semanas. Alex gosta muito de
 música, ele toca bateria, é seu instrumento
-preferido.
+preferido. 
+Os objetivos de Alex são: Dar uma boa vida para sua família e passar momentos divertidos com eles.
+Os principais desafios de Alex são: A falta de dinheiro para
+investir mais em seu hobbie
+e a falta de novas
+experiências no ciclismo.
 ......
 
 
@@ -196,7 +201,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Usuário do sistema  | Utilizar o site                    | Conseguir novas rotas              |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
