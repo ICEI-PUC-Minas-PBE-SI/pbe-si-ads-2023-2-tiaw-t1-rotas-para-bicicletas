@@ -162,6 +162,10 @@ Serão utilizadas algumas abas html para fazer uma parte de navegação, uma API
 Mapa de empatia Victor Lucas.
 ![mapa de empatia_Victor Lucas](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/d4f46071-305d-4248-9c97-2c5955a74ac1)
 
+Persona Flávio Vinícius <br>
+![Screenshot 2023-08-27 203403](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142116215/87cbbd50-50e4-4966-8b1b-1890d4c009cc) <br>
+Mapa de Empatia Flávio Vinícius <br>
+![Template - Mapa de Empatia-1_page-0001](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142116215/6f853fb9-0a4f-439b-b590-6670252ffb98)<br>
 
 ......
 
