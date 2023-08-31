@@ -157,18 +157,8 @@ Serão utilizadas algumas abas html para fazer uma parte de navegação, uma API
 
 ## Personas e Mapas de Empatia
 
-...... Persona Alex (Victor Lucas) -Alex, Contador, adulto de meia idade (41-55)
-Alex possui 54 anos, trabalha como contador em uma empresa de pequeno porte, tem uma família de 4 pessoas e
-gosta muito de pedalar, seu hobbie preferido é o
-ciclismo, ele sai para praticar esse hobbie pelo
-menos a cada 2 semanas. Alex gosta muito de
-música, ele toca bateria, é seu instrumento
-preferido. 
-Os objetivos de Alex são: Dar uma boa vida para sua família e passar momentos divertidos com eles.
-Os principais desafios de Alex são: A falta de dinheiro para
-investir mais em seu hobbie
-e a falta de novas
-experiências no ciclismo.
+...... ![persona_Victor Lucas](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/8fccbfd5-0d35-4960-a0b2-6c5939b114b7)
+
 ......
 
 
