@@ -9,14 +9,8 @@
 
 ## Participantes
 
-...... Os membros do grupo são:
+...... Os membros do grupo são: Victor Lucas de Ângela Martins, Bruno Gustavo, Flávio Vinícius, Gustavo Mourão, Higor Rodrigo Campolina Veneroso e Jefferson
 
-Victor Lucas de Ângela Martins
-Bruno
-Flávio Vinícius Silva Moreira
-Gustavo
-Higor
-Jefferson ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
@@ -83,9 +77,7 @@ As vezes uma pessoa inicia no ciclismo e não sabe uma rota divertida e segura p
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-OBJETIVO GERAL
+......  OBJETIVO GERAL
 
 -Nosso software tem como objetivo direcionar o usuário para a escolha de rotas para a prática do ciclismo.
 
@@ -94,7 +86,7 @@ OBJETIVO ESPECÍFICO
 -Com base em suas preferências e capacidades, o software poderá auxiliar o usuário a escolher qual a melhor rota e quais condições daquela e outras rotas disponíveis; <br>
 -Identificar e detalhar as rotas e quais suas condições; <br>
 -Fornecer uma ferramenta, que permita ao usuário, planejar, descobrir e experimentar rotas; <br>
--Incentivar a comunidade à prática do ciclismo a partir da fácil usabilidade do software. <br>
+-Incentivar a comunidade à prática do ciclismo a partir da fácil usabilidade do software. <br> ......
 
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
@@ -108,15 +100,13 @@ OBJETIVO ESPECÍFICO
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-São vários os fatores que justificam a criação de uma aplicação como a nossa, voltada para usuários praticantes (e possíveis aspirantes) ao ciclismo: 
+...... São vários os fatores que justificam a criação de uma aplicação como a nossa, voltada para usuários praticantes (e possíveis aspirantes) ao ciclismo: 
 
 -Sustentabilidade: Prática que incentiva sustentabilidade, uma vez que bicicletas são meios de transportes não poluentes; <br>
 -Desafogo de trânsito: o uso de bicicletas é comprovadamente um meio de transporte rápido, prático e que desafoga o trânsito através da redução de espaço das vias; <br>
 -Lazer: usado para ciclistas que querem se divertir; <br>
 -Segurança e conforto: através das informações sobre rotas, o usuário tem a informação sobre o lugar que ele vai, a fim de se precaver de imprevistos viários, lugares perigosos, ou até mesmo problemas relacionados ao clima; <br>
--HYPE: o hype, agitação, gerado em cima de uma aplicação bem sucedida, acaba sendo difundida e consequente mais usada, o que potencializa todos os itens anteriores; <br>
+-HYPE: o hype, agitação, gerado em cima de uma aplicação bem sucedida, acaba sendo difundida e consequente mais usada, o que potencializa todos os itens anteriores; <br> ......
 
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
@@ -158,7 +148,8 @@ Saúde Mental e Bem-estar: Reconhecem os benefícios do ciclismo para o alívio 
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... No documento serão abordadas as funções que nosso site irá realizar, como a aba comunidade, a área de mapas e etc.
+Serão utilizadas algumas abas html para fazer uma parte de navegação, uma API de mapas do google pra poder visualizar e mexer nos mapas disponibilizados pelos usuários, e será usado um arquivo CSS para fazer a estilização do site, com uma paleta de cores, uma logo e com imagens durante o site. ......
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
@@ -166,7 +157,14 @@ Saúde Mental e Bem-estar: Reconhecem os benefícios do ciclismo para o alívio 
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... Persona Alex (Victor Lucas) -Alex, Contador, adulto de meia idade (41-55)
+Alex possui 54 anos, tem uma família de 4 pessoas e
+gosta muito de pedalar, seu hobbie preferido é o
+ciclismo, ele sai para praticar esse hobbie pelo
+menos a cada 2 semanas. Alex gosta muito de
+música, ele toca bateria, é seu instrumento
+preferido.
+......
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
