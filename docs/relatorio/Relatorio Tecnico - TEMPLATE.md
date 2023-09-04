@@ -167,6 +167,10 @@ Persona Flávio Vinícius <br>
 Mapa de Empatia Flávio Vinícius <br>
 ![Template - Mapa de Empatia-1_page-0001](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142116215/6f853fb9-0a4f-439b-b590-6670252ffb98)<br>
 
+Persona - Bruno Gustavo
+![persona-bruno]
+Mapa de empatia - Bruno Gustavo
+![mapa-de-empatia-bruno]
 ......
 
 
