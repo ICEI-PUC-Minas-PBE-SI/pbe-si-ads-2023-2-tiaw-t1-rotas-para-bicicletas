@@ -9,7 +9,13 @@
 
 ## Participantes
 
-...... Os membros do grupo são: Victor Lucas de Ângela Martins, Bruno Gustavo, Flávio Vinícius, Gustavo Mourão, Higor Rodrigo Campolina Veneroso e Jefferson
+...... Os membros do grupo são: <br>
+Victor Lucas de Ângela Martins <br>
+Bruno Gustavo <br>
+Flávio Vinícius Silva Moreira <br>
+Gustavo Mourão <br>
+Higor Rodrigo Campolina Veneroso <br>
+Jefferson
 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
