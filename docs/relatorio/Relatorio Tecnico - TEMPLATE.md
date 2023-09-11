@@ -181,6 +181,9 @@ Mapa de empatia - Bruno Gustavo <br>
 Persona - Jefferson Marlon <br>
 ![breno](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/1d630934-08e6-4d2f-ab13-1293c69174c0)
 <br>
+Mapa de empatia 
+![mapa-empatia-jeff](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/714595d4-d90f-4db6-a3f2-4292e0a1e57b)
+
 
 
 
