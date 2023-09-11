@@ -11,11 +11,11 @@
 
 ...... Os membros do grupo são: <br>
 Victor Lucas de Ângela Martins <br>
-Bruno Gustavo <br>
+Bruno Gustavo Rezende <br>
 Flávio Vinícius Silva Moreira <br>
 Gustavo Mourão <br>
 Higor Rodrigo Campolina Veneroso <br>
-Jefferson
+Jefferson Marlon Maciel Silva <br>
 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
