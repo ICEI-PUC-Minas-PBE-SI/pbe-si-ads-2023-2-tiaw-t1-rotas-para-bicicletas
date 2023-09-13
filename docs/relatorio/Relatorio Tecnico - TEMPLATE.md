@@ -184,6 +184,10 @@ Persona - Jefferson Marlon <br>
 Mapa de empatia 
 ![mapa-empatia-jeff](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/714595d4-d90f-4db6-a3f2-4292e0a1e57b)
 
+Persona - Gustavo Mourão <br>
+![Captura de tela 2023-09-13 110726](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/46b8bafd-31f1-46a3-b167-ee45038068e0)
+Mapa de Empatia Gustavo Mourão <br>
+
 
 
 
