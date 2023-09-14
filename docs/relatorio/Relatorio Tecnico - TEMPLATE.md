@@ -187,6 +187,7 @@ Mapa de empatia
 Persona - Gustavo Mourão <br>
 ![Captura de tela 2023-09-13 110726](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/46b8bafd-31f1-46a3-b167-ee45038068e0)
 Mapa de Empatia Gustavo Mourão <br>
+![MAPA EMPATIA](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/a7d5eea9-7709-442e-9304-1f901cb3f5fd)
 
 
 
