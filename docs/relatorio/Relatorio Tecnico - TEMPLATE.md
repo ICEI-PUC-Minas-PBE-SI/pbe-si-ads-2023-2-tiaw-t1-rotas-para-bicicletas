@@ -245,18 +245,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês  | MÉDIA |
-|RF-003| O sistema deve permitir ao usuário acesso ao gps com informações de ruas, bairros e cidades  | BAIXA |
-
+|RF-001| O sistema deve permitir ao usuário acesso ao gps com informações de ruas, bairros e cidades  | ALTA | 
+|RF-002| O sistema deve perimitir ao usuário colocar mapas e rotas no site | ALTA | 
+|RF-003| O usuário deve conseguir alterar o seu perfil dentro da aplicação | MÉDIA| 
+|RF-004| O usuário deve informar a região onde ele mora |ALTA| 
+|RF-005| Permitir que o usuário interaja com outros usuárioss | MÉDIA | 
+|RF-006| Emitir a quantidade de rotas salvas pelo usuário  | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Segurança dos dados do usuário | ALTA |
-|RNF-002| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-003| Facilidade do uso do sistema | BAIXA | 
+|RNF-002| O sistema deve ser responsivo para todas as plataformas| ALTA | 
+|RNF-003| Facilidade do acesso as rotas | ALTA | 
+|RNF-004| O sistema deve ter acesso à localização do usuário |MÉDIA| 
+|RNF-005| O sistema deve ser desenvolvido em JavaScript e HTML |MÈDIA| 
+|RNF-006| O sistema deve emitir um relatório de acessos todo final de semana | BAIXO| 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
