@@ -186,16 +186,12 @@ Mapa de Empatia - Gustavo Mourão <br>
 Persona - Raul Adelino <br>
 ![Persona - José da Silva.jpg](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/blob/master/docs/relatorio/images/Persona%20-%20Jos%C3%A9%20da%20Silva.jpg) <br>
 Mapa de Empatia - Raul Adelino <br>
+![Mapa de Empatia - José da Silva.jpg](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/blob/master/docs/relatorio/images/Mapa%20de%20empatia%20-%20Jos%C3%A9%20da%20Silva.jpeg) <br>
 
 Persona - Higor Campolina <br>
 ![page_7662_638295017076009955.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611890/page_7662_638295017076009955.pdf) <br>
 Mapa de Empatia - Higor Campolina <br>
 ![Template - Mapa de Empatia-1.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611893/Template.-.Mapa.de.Empatia-1.pdf) <br>
-
-
-
-
-
 ......
 
 
