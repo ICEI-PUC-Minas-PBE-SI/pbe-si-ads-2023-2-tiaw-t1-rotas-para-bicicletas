@@ -163,15 +163,10 @@ Serão utilizadas algumas abas html para fazer uma parte de navegação, uma API
 
 ## Personas e Mapas de Empatia
 
-...... Persona Victor Lucas.
-![persona_Victor Lucas](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/8fccbfd5-0d35-4960-a0b2-6c5939b114b7)
-Mapa de empatia Victor Lucas.
-![mapa de empatia_Victor Lucas](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/d4f46071-305d-4248-9c97-2c5955a74ac1)
-
-Persona Flávio Vinícius <br>
-![Screenshot 2023-08-27 203403](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142116215/87cbbd50-50e4-4966-8b1b-1890d4c009cc) <br>
-Mapa de Empatia Flávio Vinícius <br>
-![Template - Mapa de Empatia-1_page-0001](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142116215/6f853fb9-0a4f-439b-b590-6670252ffb98)<br>
+...... Persona - Victor Lucas <br>
+![persona_Victor Lucas](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/8fccbfd5-0d35-4960-a0b2-6c5939b114b7) <br>
+Mapa de Empatia - Victor Lucas <br>
+![mapa de empatia_Victor Lucas](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/d4f46071-305d-4248-9c97-2c5955a74ac1) <br>
 
 Persona - Bruno Gustavo <br>
 ![persona-bruno](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/blob/master/docs/relatorio/images/persona-bruno.jpg) <br>
@@ -179,21 +174,22 @@ Mapa de empatia - Bruno Gustavo <br>
 ![mapa de empatia bruno](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/blob/master/docs/relatorio/images/mapa%20de%20empatia%20-%20bruno.jpg) <br>
 
 Persona - Jefferson Marlon <br>
-![breno](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/1d630934-08e6-4d2f-ab13-1293c69174c0)
-<br>
-Mapa de empatia 
-![mapa-empatia-jeff](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/714595d4-d90f-4db6-a3f2-4292e0a1e57b)
+![breno](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/1d630934-08e6-4d2f-ab13-1293c69174c0) <br>
+Mapa de Empatia - Jefferson Marlon <br>
+![mapa-empatia-jeff](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/714595d4-d90f-4db6-a3f2-4292e0a1e57b) <br>
 
 Persona - Gustavo Mourão <br>
-![Captura de tela 2023-09-13 110726](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/46b8bafd-31f1-46a3-b167-ee45038068e0)
-Mapa de Empatia Gustavo Mourão <br>
-![MAPA EMPATIA](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/a7d5eea9-7709-442e-9304-1f901cb3f5fd)
+![Captura de tela 2023-09-13 110726](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/46b8bafd-31f1-46a3-b167-ee45038068e0) <br>
+Mapa de Empatia - Gustavo Mourão <br>
+![MAPA EMPATIA](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/a7d5eea9-7709-442e-9304-1f901cb3f5fd) <br>
 
-Persona - Higor Campolina
-![page_7662_638295017076009955.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611890/page_7662_638295017076009955.pdf)
-Mapa de Empatia 
-![Template - Mapa de Empatia-1.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611893/Template.-.Mapa.de.Empatia-1.pdf)
+Persona - Raul Adelino <br>
+Mapa de Empatia - Raul Adelino <br>
 
+Persona - Higor Campolina <br>
+![page_7662_638295017076009955.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611890/page_7662_638295017076009955.pdf) <br>
+Mapa de Empatia - Higor Campolina <br>
+![Template - Mapa de Empatia-1.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611893/Template.-.Mapa.de.Empatia-1.pdf) <br>
 
 
 
