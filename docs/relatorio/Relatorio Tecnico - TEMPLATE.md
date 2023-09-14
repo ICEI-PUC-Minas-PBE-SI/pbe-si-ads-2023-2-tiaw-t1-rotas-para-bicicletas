@@ -189,6 +189,13 @@ Persona - Gustavo Mourão <br>
 Mapa de Empatia Gustavo Mourão <br>
 ![MAPA EMPATIA](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/140968286/a7d5eea9-7709-442e-9304-1f901cb3f5fd)
 
+Persona - Higor Campolina
+![page_7662_638295017076009955.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611890/page_7662_638295017076009955.pdf)
+Mapa de Empatia 
+![Template - Mapa de Empatia-1.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611893/Template.-.Mapa.de.Empatia-1.pdf)
+
+
+
 
 
 
