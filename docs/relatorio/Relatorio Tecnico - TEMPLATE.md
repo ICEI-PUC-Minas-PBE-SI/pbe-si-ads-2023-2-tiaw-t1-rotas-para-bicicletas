@@ -12,10 +12,10 @@
 ...... Os membros do grupo são: <br>
 Victor Lucas de Ângela Martins <br>
 Bruno Gustavo Rezende <br>
-Flávio Vinícius Silva Moreira <br>
 Gustavo Mourão <br>
 Higor Rodrigo Campolina Veneroso <br>
 Jefferson Marlon Maciel Silva <br>
+Raul Adelino
 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
@@ -61,48 +61,22 @@ Jefferson Marlon Maciel Silva <br>
 ## Problema
 
 ......  O nosso software busca resolver o problema de ciclistas em relação a rotas para pedalar, atendendendo todos os níveis de ciclistas, desde o iniciante até o avançado.
-Os ciclista poderão utilizar o site para encontrar rotas para pedalar em sua região, interagir com a rota de outros ciclistas e também postar suas rotas para toda a comunidade ver.
 As vezes uma pessoa inicia no ciclismo e não sabe uma rota divertida e segura para ir com sua bike, e por isso corre o risco dele largar o esporte por esse simples motivo, o nosso site busca resolver esse problema, disponibilizando rotas de outros ciclistas da região, através do compartilhamento de trajetos.
 ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
 ......  OBJETIVO GERAL
 
--Nosso software tem como objetivo direcionar o usuário para a escolha de rotas para a prática do ciclismo.
+-Desenvolver um software web para procurar rotas de biclicleta.
 
 OBJETIVO ESPECÍFICO
-
+Nosso software tem como objetivo direcionar o usuário para a escolha de rotas para a prática do ciclismo. <br>
 -Com base em suas preferências e capacidades, o software poderá auxiliar o usuário a escolher qual a melhor rota e quais condições daquela e outras rotas disponíveis; <br>
 -Identificar e detalhar as rotas e quais suas condições; <br>
+Os ciclista poderão utilizar o site para encontrar rotas para pedalar em sua região, interagir com a rota de outros ciclistas e também postar suas rotas para toda a comunidade ver <br>
 -Fornecer uma ferramenta, que permita ao usuário, planejar, descobrir e experimentar rotas; <br>
 -Incentivar a comunidade à prática do ciclismo a partir da fácil usabilidade do software. <br> ......
-
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -113,19 +87,6 @@ OBJETIVO ESPECÍFICO
 -Lazer: usado para ciclistas que querem se divertir; <br>
 -Segurança e conforto: através das informações sobre rotas, o usuário tem a informação sobre o lugar que ele vai, a fim de se precaver de imprevistos viários, lugares perigosos, ou até mesmo problemas relacionados ao clima; <br>
 -HYPE: o hype, agitação, gerado em cima de uma aplicação bem sucedida, acaba sendo difundida e consequente mais usada, o que potencializa todos os itens anteriores; <br> ......
-
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
@@ -156,10 +117,6 @@ Saúde Mental e Bem-estar: Reconhecem os benefícios do ciclismo para o alívio 
 
 ...... No documento serão abordadas as funções que nosso site irá realizar, como a aba comunidade, a área de mapas e etc.
 Serão utilizadas algumas abas html para fazer uma parte de navegação, uma API de mapas do google pra poder visualizar e mexer nos mapas disponibilizados pelos usuários, e será usado um arquivo CSS para fazer a estilização do site, com uma paleta de cores, uma logo e com imagens durante o site. ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
 
@@ -194,30 +151,6 @@ Mapa de Empatia - Higor Campolina <br>
 ![Template - Mapa de Empatia-1.pdf](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/files/12611893/Template.-.Mapa.de.Empatia-1.pdf) <br>
 ......
 
-
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
-> **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
-
-
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
@@ -226,17 +159,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Utilizar o site                    | Conseguir novas rotas              |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
@@ -264,54 +186,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-005| O sistema deve ser desenvolvido em JavaScript e HTML |MÈDIA| 
 |RNF-006| O sistema deve emitir um relatório de acessos todo final de semana | BAIXO| 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 ## Restrições
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+|01| O usuário não pode acessar o código fonte do site     |
+|02| O usuário não pode alterar a aparência do site        |
+|03| O usuário pode utilizar somente imagens dos mapas     |
+|04| O sistema não pode ser utilizado em tela divida no    |
+mobile.                                                    |
+|05| O usuário não pode excluir ou alterar os posts de     |
+outro usuário.                                             |
+|06| O usuário poderá utilizar arquivos em formato         |
+.jpg ou .png                                               |
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+......  As interfaces principais serão: <br> A tela inicial (início) <br> A interface onde ficarão localizadas as rotas (rotas) <br> A interface da comunidade, onde os usuários poderão interagir entre si <br> A interface do perfil do usuário, onde ele poderá alterar seu perfil de acordo com o próprio gosto(perfil) <br> A parte de patrocínios, onde ele poderá ver os parceiros do nosso site (patrocínios) <br> A área de contatos, onde se encontrará os nossos meios de contato (contato) <br> E a parte onde poderão conhecer um pouco mais da nossa equipe e dos nossos objetivos (sobre nós). ......
 
 ## User Flow
 
@@ -337,24 +230,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ...... O nosso wireframe foi feito ulilizando html e css e é somente a aparência básica do site, possíveis mudanças podem ser feitas
 ![Captura de tela 2023-09-14 082652](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/0542a8c3-cf51-44b0-9a9f-a3ab91a90db2) <br>
 ![Captura de tela 2023-09-14 082710](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/668dc07b-9fef-41a3-949c-5e58ef8fd9f8)
-
 ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-
 
 # Metodologia
 
