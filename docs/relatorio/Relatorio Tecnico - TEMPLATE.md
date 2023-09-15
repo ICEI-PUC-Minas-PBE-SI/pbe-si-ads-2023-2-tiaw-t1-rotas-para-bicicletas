@@ -195,11 +195,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O usuário não pode acessar o código fonte do site     |
 |02| O usuário não pode alterar a aparência do site        |
 |03| O usuário pode utilizar somente imagens dos mapas     |
-|04| O sistema não pode ser utilizado em tela divida no    |
+|04| O sistema não pode ser utilizado em tela divida no    
 mobile.                                                    |
-|05| O usuário não pode excluir ou alterar os posts de     |
+|05| O usuário não pode excluir ou alterar os posts de     
 outro usuário.                                             |
-|06| O usuário poderá utilizar arquivos em formato         |
+|06| O usuário poderá utilizar arquivos em formato         
 .jpg ou .png                                               |
 
 # Projeto de Interface
