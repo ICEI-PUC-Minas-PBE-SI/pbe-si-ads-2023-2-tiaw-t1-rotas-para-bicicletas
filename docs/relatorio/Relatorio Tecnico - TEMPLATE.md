@@ -145,11 +145,11 @@ Persona - Raul Adelino <br>
 Mapa de Empatia - Raul Adelino <br>
 ![Mapa de Empatia - José da Silva.jpg](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/blob/master/docs/relatorio/images/Mapa%20de%20empatia%20-%20Jos%C3%A9%20da%20Silva.jpeg) <br>
 
-Persona - Higor Campolina 
-![1694778426702-9cda70c6-7d50-4932-ae06-6d14aa9b6c91_1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/132582545/884817ed-5cfa-4213-878e-cb42029aecce)
+Persona - Higor Campolina <br>
+![1694778426702-9cda70c6-7d50-4932-ae06-6d14aa9b6c91_1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/132582545/884817ed-5cfa-4213-878e-cb42029aecce) <br>
 
-Mapa de Empatia - Higor Campolina 
-![Template - Mapa de Empatia-1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/132582545/3f0707ce-9db0-4eb4-949b-b8826129d67e)
+Mapa de Empatia - Higor Campolina <br>
+![Template - Mapa de Empatia-1](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/132582545/3f0707ce-9db0-4eb4-949b-b8826129d67e) <br>
 
 ......
 
