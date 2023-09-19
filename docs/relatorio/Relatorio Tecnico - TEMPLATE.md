@@ -15,8 +15,8 @@ Bruno Gustavo Rezende <br>
 Gustavo Mourão <br>
 Higor Rodrigo Campolina Veneroso <br>
 Jefferson Marlon Maciel Silva <br>
-Raul Adelino
-
+Raul Adelino Silva
+ 
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
