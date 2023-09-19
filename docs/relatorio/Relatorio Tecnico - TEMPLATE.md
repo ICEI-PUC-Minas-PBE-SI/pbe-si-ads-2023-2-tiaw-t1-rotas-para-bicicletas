@@ -18,9 +18,6 @@ Jefferson Marlon Maciel Silva <br>
 Raul Adelino Silva
  
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-
 # Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
@@ -60,8 +57,8 @@ Raul Adelino Silva
 
 ## Problema
 
-......  O nosso software busca resolver o problema de ciclistas em relação a rotas para pedalar, atendendendo todos os níveis de ciclistas, desde o iniciante até o avançado.
-As vezes uma pessoa inicia no ciclismo e não sabe uma rota divertida e segura para ir com sua bike, e por isso corre o risco dele largar o esporte por esse simples motivo, o nosso site busca resolver esse problema, disponibilizando rotas de outros ciclistas da região, através do compartilhamento de trajetos.
+...... O problema objetivado é o impasse dos ciclistas iniciantes e intermediários em relação a rotas para pedalar, é um problema que acomete principalmente ciclistas iniciantes, pois procuram uma rota mais fácil e menos movimentada para treinar o seu corpo e evoluir no esporte, e muita das vezes o ambiente da cidade grande pode ser um obstáculo para os ciclistas inexperiêntes, devido ao tráfego pesado e locais sem uma ciclovia. Isso faz com que ciclistas iniciantes e intermediários busquem de uma maneira fácil e rápida, uma maneira de conseguir novas rotas para praticar o esporte.
+As vezes o abandono do esporte por parte dos ciclistas se dá principalmente devido a falta de locais para irem ou até a falta de um companheiro de pedal, inicialmente pedalar com um amigo ou com uma turma é mais vantajoso e incentivador para o iniciante, e a falta de um local para achar as rotas e companheiros acomete a vida de praticantes inexperientes.
 ......
 
 ## Objetivos
