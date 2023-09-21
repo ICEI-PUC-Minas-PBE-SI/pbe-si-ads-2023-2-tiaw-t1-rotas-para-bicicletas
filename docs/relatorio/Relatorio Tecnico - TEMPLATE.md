@@ -227,9 +227,8 @@ outro usuário.                                             |
 ## Wireframes
 
 ...... O nosso wireframe foi feito ulilizando html e css e é somente a aparência básica do site, possíveis mudanças podem ser feitas
- ![Captura de tela 2023-09-19 104424](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/5c90111d-14ab-45be-91ed-3761502cdb62)
+![wireframe](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/143117046/75443c1a-9551-4809-a264-31a58b965485)
 <br>
-![Captura de tela 2023-09-20 080156](https://github.com/ICEI-PUC-Minas-PBE-SI/pbe-si-ads-2023-2-tiaw-t1-rotas-para-bicicletas/assets/142837785/54d8a23e-fccc-4fe9-9e8d-0ecdd2d08836)
 
 ......
 
