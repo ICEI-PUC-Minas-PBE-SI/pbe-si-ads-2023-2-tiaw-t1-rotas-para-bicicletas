@@ -335,20 +335,14 @@ outro usuário.                                             |
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... O projeto se inicia com o funcionamento do site através de páginas com nomes sugestivos onde o usuário que se encontra no site possa resolver seu problema, seja achar uma rota de bicicleta ou conversar com outros membros no site através da aba comunidade.
+Logo após o direcionamento de páginas, será feito o carregamento e desenvolvimento dessas páginas, onde o usuário poderá interagir com todas as funcionalidades disponíveis para ele. Como por exemplo os mapas com a rotas, dentro dessa parte de mapas, terá um filtro onde será utilizado para especificar a rota para o tipo de bicicleta que se deseja, como por exemplo rotas para mountain bike ou speed bike. 
+......
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... O nosso site será desenvolvido para a web, utilizando a linguagem HTML,CSS,Bootstrap e JavaScript, além também da API de mapas do google, que é uma das partes fundamentais do desenvolvimento do nosso site, visto que o projeto trabalha com mapas e rotas feitas através de monitoramento via satélite, além da conexão entre as rotas no site e o aplicativo do Google Maps, após clicar na rota, o site dá ao usuário a opção de carregar a rota no aplicativo do Google. As ferramentas utilizadas estão todas disponíveis no Visual Studio Code, além das imagens, que receberão um tratamento a parte feito pelo PhotoShop. ......
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
 > Inclua os diagramas de User Flow, esboços criados pelo grupo
 > (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
 > item textualmente comentando e complementando o que está apresentado
@@ -368,11 +362,8 @@ outro usuário.                                             |
 
 # Avaliação da Aplicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente os cenários de testes utilizados na realização dos testes da
-> sua aplicação. Escolha cenários de testes que demonstrem os requisitos
-> sendo satisfeitos.
+......  Cenário 1 - Um usuário está indo pedalar, mas esqueceu de olhar a rota anteriormente, então ele pega seu celular, pesquisa no Google o site BikeRoute e acessa o site, após o clique é carregado o site em seu smartphone, após o carregamento, ele clica na aba de rotas e filtra as rotas para trajetos no asfalto, visto que sua bicicleta é uma speed, logo após filtrar, são exibidas diversas rotas de rua feitas por outros usuários, ele seleciona a rota desejada e seleciona transportar ela para o aplicativo do Google Maps, dessa maneira, o ciclista está pronto para pedalar.
+        Cenário 2- Um usuário está pensando em fazer uma pedalada no dia seguinte, porém ele não quer fazer mais uma vez as rotas que costuma fazer, então ele faz uma pesqusia no Google "Rotas para pedalar na cidade de Betim", então o nosso site é sugerido entre as primeiras pesquisas, dessa forma o usuário entra no site, vê todas as funcionalidades facilmente disponibilizadas, dessa maneira ele clica na aba de rotas, filtra as rotas para a sua Mountain Bike e clica em "Ok", logo após, o site mostra as rotas para bicicletas de trilha para esse usuário, depois dele selecionar a rota desejada, ele estuda calmamente a rota que irá fazer no dia seguinte e vê que o site permite abrir a rota no aplicativo do Google Maps, dessa forma ele se sente preparado e satisfeito para fazer a sua pedalada no dia seguinte, e agora esse usuário sabe que existe um site que cumpre as suas necessidades e de uma forma simples. ......
 
 ## Plano de Testes
 
