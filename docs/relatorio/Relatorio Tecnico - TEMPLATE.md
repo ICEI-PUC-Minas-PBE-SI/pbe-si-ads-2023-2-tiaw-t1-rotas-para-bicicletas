@@ -12,11 +12,9 @@
 ...... Os membros do grupo são: <br>
 Victor Lucas de Ângela Martins <br>
 Bruno Gustavo Rezende <br>
-Gustavo Mourão <br>
 Higor Rodrigo Campolina Veneroso <br>
 Jefferson Marlon Maciel Silva <br>
-Raul Adelino Silva
- 
+
 
 # Estrutura do Documento
 
