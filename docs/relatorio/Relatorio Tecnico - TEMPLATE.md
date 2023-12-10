@@ -367,7 +367,8 @@ Logo após o direcionamento de páginas, será feito o carregamento e desenvolvi
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... 1-Cadastro e utilização de mapas no site 
+      2- Cadastro de novos usuários no site ......
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -391,7 +392,8 @@ Logo após o direcionamento de páginas, será feito o carregamento e desenvolvi
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+...... Teste 1 - Ao tentar colocar mais de 3 mapas no site utilizando a API do MapBox, os mapas não apareceram no site, se limitando a somente três mapas, quando a tentativa era colocar 8 mapas. 
+Teste 2 - Ao tentar reaizar o cadastro de usuários, o nome de usuário e senha não estavam sendo salvos em algum local, devido a isso era possível cadastrar mais um usuário com login e senha iguais. ......
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
