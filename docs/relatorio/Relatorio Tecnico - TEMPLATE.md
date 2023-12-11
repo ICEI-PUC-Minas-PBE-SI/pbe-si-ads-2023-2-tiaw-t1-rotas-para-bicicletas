@@ -369,7 +369,9 @@ Logo após o direcionamento de páginas, será feito o carregamento e desenvolvi
 
 ...... 1-Cadastro e utilização de mapas no site 
       2- Cadastro de novos usuários no site
-      3 - Criação de Rotas utilizando MapBox......
+      3 - Criação de Rotas utilizando MapBox.
+      4 - Criação de uma rota diferente para cada mapa. 
+      5 - Mudança de rotas, as rotas deixam de ser uma linha reta e seguem as ruas da cidade. .....
 
 > Enumere quais cenários de testes foram selecionados para teste. Neste
 > tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
@@ -395,7 +397,9 @@ Logo após o direcionamento de páginas, será feito o carregamento e desenvolvi
 
 ...... Teste 1 - Ao tentar colocar mais de 3 mapas no site utilizando a API do MapBox, os mapas não apareceram no site, se limitando a somente três mapas, quando a tentativa era colocar 8 mapas. 
 Teste 2 - Ao tentar reaizar o cadastro de usuários, o nome de usuário e senha não estavam sendo salvos em algum local, devido a isso era possível cadastrar mais um usuário com login e senha iguais.
-Teste 3 - Ao tentar definir as rotas do usuário, o desenho da rota ficou em linha reta, e quando foi possível corrigir esse erro, as demais rotas desapareceram do site. ......
+Teste 3 - Ao tentar definir as rotas do usuário, o desenho da rota ficou em linha reta, e quando foi possível corrigir esse erro, as demais rotas desapareceram do site. 
+Teste 4 - Ao tentar colocar rotas diferentes nos mapas, eles deram um erro onde aconteciam sempre duas coisas, ou as rotas sumioam, os elas ficavam todas idênticas. 
+Teste 5 - Ao adicionar a biblioteca do mapbox e tentar desenhar as rotas de acordo com as ruas da cidade, algumas rotas não aceitaram as coordenadas, dessa forma algumas rotas ainda ficaram em linh reta. ......
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
