@@ -407,7 +407,7 @@ Logo após o direcionamento de páginas, será feito o carregamento e desenvolvi
 <br> Teste 10 - Ao tentar colocar novas fotos com o nome de arquivo já registrado na pasta de uploads no JSON Server, a foto não upada no servidor e dessa forma não era mostrada na tela. <br>
 <br> Teste 11 - Ao tentar usar os botões ineterativos do site, como curtir, salvar e compartilhar fotos e seguir usuarios, não era obtido nenhum resultado pela falta do javascript dessas funções. <br> 
 <br> Teste 12 - Ao tentar acessar as informações das estruturas contidas no JSON Server, não era obtido nenhum resultado devido a erros de digitação no db.json. <br> 
-
+<br> Teste 13 - Ao tentar implementar a API de calendario no JS nao obtia nenhum resultado, nenhuma solução encontrada <br>
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
 > esses pontos nas próximas iterações. Apresente as falhas detectadas e
