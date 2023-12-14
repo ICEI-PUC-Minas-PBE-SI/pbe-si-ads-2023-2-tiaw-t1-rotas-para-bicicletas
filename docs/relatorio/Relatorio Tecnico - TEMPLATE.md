@@ -395,11 +395,18 @@ Logo após o direcionamento de páginas, será feito o carregamento e desenvolvi
 
 ## Registros de Testes
 
-...... Teste 1 - Ao tentar colocar mais de 3 mapas no site utilizando a API do MapBox, os mapas não apareceram no site, se limitando a somente três mapas, quando a tentativa era colocar 8 mapas. 
-Teste 2 - Ao tentar reaizar o cadastro de usuários, o nome de usuário e senha não estavam sendo salvos em algum local, devido a isso era possível cadastrar mais um usuário com login e senha iguais.
-Teste 3 - Ao tentar definir as rotas do usuário, o desenho da rota ficou em linha reta, e quando foi possível corrigir esse erro, as demais rotas desapareceram do site. 
-Teste 4 - Ao tentar colocar rotas diferentes nos mapas, eles deram um erro onde aconteciam sempre duas coisas, ou as rotas sumioam, os elas ficavam todas idênticas. 
-Teste 5 - Ao adicionar a biblioteca do mapbox e tentar desenhar as rotas de acordo com as ruas da cidade, algumas rotas não aceitaram as coordenadas, dessa forma algumas rotas ainda ficaram em linh reta. ......
+<br> Teste 1 - Ao tentar colocar mais de 3 mapas no site utilizando a API do MapBox, os mapas não apareceram no site, se limitando a somente três mapas, quando a tentativa era colocar 8 mapas. <br>
+<br> Teste 2 - Ao tentar reaizar o cadastro de usuários, o nome de usuário e senha não estavam sendo salvos em algum local, devido a isso era possível cadastrar mais um usuário com login e senha iguais. <br> 
+<br> Teste 3 - Ao tentar definir as rotas do usuário, o desenho da rota ficou em linha reta, e quando foi possível corrigir esse erro, as demais rotas desapareceram do site. <br> 
+<br> Teste 4 - Ao tentar colocar rotas diferentes nos mapas, eles deram um erro onde aconteciam sempre duas coisas, ou as rotas sumiam, os elas ficavam todas idênticas. <br> 
+<br> Teste 5 - Ao adicionar a biblioteca do mapbox e tentar desenhar as rotas de acordo com as ruas da cidade, algumas rotas não aceitaram as coordenadas, dessa forma algumas rotas ainda ficaram em linh reta. <br>
+<br> Teste 6 - Ao enviar fotos para o JSON Server, as fotos não eram armazenadas no servidor dentro da pasta de uploadas, dessa forma não aparecendo na tela.  <br> 
+<br> Teste 7 - Ao enviar as rotas, a estrutura de rotas dentro do JSON Server recebia os objetos com nomes diferentes e não fazia a integração com o javascript do site. <br>
+<br> Teste 8 - Ao mostrar as fotos e rotas na tela, os dados não eram requisitados no JSON Server e era mostrado na tela do o resultado "undefined". <br>
+<br> Teste 9 - Ao tentar mostar o mapa, as bibliotecas CSS e JS do MapBox não eram acessadas e o local onde era para ser mostrado o mapa ficava em branco. <br>
+<br> Teste 10 - Ao tentar colocar novas fotos com o nome de arquivo já registrado na pasta de uploads no JSON Server, a foto não upada no servidor e dessa forma não era mostrada na tela. <br>
+<br> Teste 11 - Ao tentar usar os botões ineterativos do site, como curtir, salvar e compartilhar fotos e seguir usuarios, não era obtido nenhum resultado pela falta do javascript dessas funções. <br> 
+<br> Teste 12 - Ao tentar acessar as informações das estruturas contidas no JSON Server, não era obtido nenhum resultado devido a erros de digitação no db.json. <br> 
 
 > Discorra sobre os resultados do teste. Ressaltando pontos fortes e
 > fracos identificados na solução. Comente como o grupo pretende atacar
